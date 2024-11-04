@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://KSU4250.github.io/sitemap.xml
